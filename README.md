@@ -433,6 +433,7 @@ All important functions are documented in the online documentation for
 programmers. You can also check out one of our videos by clicking the
 linked picture below:
 
+
 ### cleanX: video demonstration
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jaX5tXmiWrQ/0.jpg)](https://www.youtube.com/watch?v=jaX5tXmiWrQ)
